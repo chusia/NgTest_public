@@ -1,0 +1,41 @@
+{
+  "name": "bmspalation",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "base-64": "^0.1.0",
+    "body-parser": "^1.17.2",
+    "connect-mongo": "^2.0.3",
+    "cookie-parser": "^1.4.3",
+    "csurf": "^1.9.0",
+    "debug": "^2.6.9",
+    "ejs": "^2.6.1",
+    "express": "^4.15.5",
+    "express-fileupload": "^1.0.0",
+    "express-partials": "^0.3.0",
+    "express-session": "^1.15.6",
+    "helmet": "^3.15.0",
+    "i18n": "^0.8.3",
+    "jsonwebtoken": "^8.4.0",
+    "jsreport-client": "^0.4.1",
+    "log4js": "^3.0.6",
+    "mocha": "^6.0.2",
+    "mongodb": "^3.1.10",
+    "morgan": "~1.8.1",
+    "nodemailer": "^4.7.0",
+    "pad": "^2.2.1",
+    "pg": "^7.7.1",
+    "pg-hstore": "^2.3.2",
+    "puppeteer": "^1.12.2",
+    "sequelize": "^4.42.0",
+    "serve-favicon": "~2.4.2",
+    "soap": "^0.25.0",
+    "supertest": "^3.4.2",
+    "swagger-jsdoc": "^3.2.6",
+    "swagger-ui-express": "^4.0.2",
+    "util": "^0.11.1"
+  }
+}
